@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/xsl" href = "styles.xsl"?> 
+<messages>
+  <note id="1">
+    <from>Nikita</from>
+    <to>Everyone</to>
+    <text>Hi! I&apos;m ten years old and i write code</text>
+  </note>
+  <note id="2">
+    <from>Tatiana</from>
+    <to>Everyone</to>
+    <text>HI! I&apos;m mom!</text>
+  </note>
+</messages>
